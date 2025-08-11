@@ -1,0 +1,1001 @@
+product_id,product_name,product_category,brand,cost_price
+SPO_0000,Sports Product 1,Sports,Brand A,46.87
+FOO_0001,Food & Beverage Product 2,Food & Beverage,Brand B,10.78
+BOO_0002,Books Product 3,Books,Brand C,14.16
+SPO_0003,Sports Product 4,Sports,Brand D,37.45
+HOM_0004,Home & Garden Product 5,Home & Garden,Brand E,39.48
+ELE_0005,Electronics Product 6,Electronics,Brand F,185.08
+BOO_0006,Books Product 7,Books,Brand G,10.96
+HOM_0007,Home & Garden Product 8,Home & Garden,Brand H,36.62
+BOO_0008,Books Product 9,Books,Brand I,13.18
+BOO_0009,Books Product 10,Books,Brand J,11.48
+BOO_0010,Books Product 11,Books,Brand K,11.07
+CLO_0011,Clothing Product 12,Clothing,Brand L,16.22
+ELE_0012,Electronics Product 13,Electronics,Brand M,191.97
+CLO_0013,Clothing Product 14,Clothing,Brand N,18.85
+BOO_0014,Books Product 15,Books,Brand O,11.95
+BOO_0015,Books Product 16,Books,Brand P,10.85
+ELE_0016,Electronics Product 17,Electronics,Brand Q,173.6
+BOO_0017,Books Product 18,Books,Brand R,13.65
+HOM_0018,Home & Garden Product 19,Home & Garden,Brand S,52.24
+CLO_0019,Clothing Product 20,Clothing,Brand T,20.93
+HOM_0020,Home & Garden Product 21,Home & Garden,Brand U,39.85
+SPO_0021,Sports Product 22,Sports,Brand V,37.03
+FOO_0022,Food & Beverage Product 23,Food & Beverage,Brand W,8.28
+HOM_0023,Home & Garden Product 24,Home & Garden,Brand X,52.14
+ELE_0024,Electronics Product 25,Electronics,Brand Y,144.19
+BOO_0025,Books Product 26,Books,Brand Z,15.95
+ELE_0026,Electronics Product 27,Electronics,Brand A,148.78
+CLO_0027,Clothing Product 28,Clothing,Brand B,19.65
+CLO_0028,Clothing Product 29,Clothing,Brand C,23.0
+ELE_0029,Electronics Product 30,Electronics,Brand D,206.62
+HOM_0030,Home & Garden Product 31,Home & Garden,Brand E,40.67
+SPO_0031,Sports Product 32,Sports,Brand F,49.25
+FOO_0032,Food & Beverage Product 33,Food & Beverage,Brand G,8.29
+FOO_0033,Food & Beverage Product 34,Food & Beverage,Brand H,9.1
+FOO_0034,Food & Beverage Product 35,Food & Beverage,Brand I,10.14
+HOM_0035,Home & Garden Product 36,Home & Garden,Brand J,52.19
+ELE_0036,Electronics Product 37,Electronics,Brand K,210.9
+CLO_0037,Clothing Product 38,Clothing,Brand L,17.75
+ELE_0038,Electronics Product 39,Electronics,Brand M,196.8
+CLO_0039,Clothing Product 40,Clothing,Brand N,17.82
+BOO_0040,Books Product 41,Books,Brand O,11.76
+HOM_0041,Home & Garden Product 42,Home & Garden,Brand P,39.22
+FOO_0042,Food & Beverage Product 43,Food & Beverage,Brand Q,10.27
+BOO_0043,Books Product 44,Books,Brand R,13.24
+ELE_0044,Electronics Product 45,Electronics,Brand S,150.14
+SPO_0045,Sports Product 46,Sports,Brand T,49.17
+ELE_0046,Electronics Product 47,Electronics,Brand U,143.77
+CLO_0047,Clothing Product 48,Clothing,Brand V,20.67
+HOM_0048,Home & Garden Product 49,Home & Garden,Brand W,38.48
+SPO_0049,Sports Product 50,Sports,Brand X,44.35
+SPO_0050,Sports Product 51,Sports,Brand Y,44.51
+ELE_0051,Electronics Product 52,Electronics,Brand Z,148.92
+FOO_0052,Food & Beverage Product 53,Food & Beverage,Brand A,10.45
+BOO_0053,Books Product 54,Books,Brand B,10.83
+HOM_0054,Home & Garden Product 55,Home & Garden,Brand C,45.97
+CLO_0055,Clothing Product 56,Clothing,Brand D,19.05
+ELE_0056,Electronics Product 57,Electronics,Brand E,165.64
+ELE_0057,Electronics Product 58,Electronics,Brand F,208.03
+CLO_0058,Clothing Product 59,Clothing,Brand G,21.03
+FOO_0059,Food & Beverage Product 60,Food & Beverage,Brand H,7.57
+BOO_0060,Books Product 61,Books,Brand I,15.34
+SPO_0061,Sports Product 62,Sports,Brand J,51.69
+FOO_0062,Food & Beverage Product 63,Food & Beverage,Brand K,7.76
+CLO_0063,Clothing Product 64,Clothing,Brand L,22.46
+CLO_0064,Clothing Product 65,Clothing,Brand M,22.59
+ELE_0065,Electronics Product 66,Electronics,Brand N,156.39
+HOM_0066,Home & Garden Product 67,Home & Garden,Brand O,49.53
+SPO_0067,Sports Product 68,Sports,Brand P,48.7
+FOO_0068,Food & Beverage Product 69,Food & Beverage,Brand Q,10.12
+HOM_0069,Home & Garden Product 70,Home & Garden,Brand R,38.43
+FOO_0070,Food & Beverage Product 71,Food & Beverage,Brand S,7.59
+ELE_0071,Electronics Product 72,Electronics,Brand T,205.13
+CLO_0072,Clothing Product 73,Clothing,Brand U,17.24
+SPO_0073,Sports Product 74,Sports,Brand V,40.84
+CLO_0074,Clothing Product 75,Clothing,Brand W,17.43
+FOO_0075,Food & Beverage Product 76,Food & Beverage,Brand X,7.9
+HOM_0076,Home & Garden Product 77,Home & Garden,Brand Y,40.56
+ELE_0077,Electronics Product 78,Electronics,Brand Z,212.9
+HOM_0078,Home & Garden Product 79,Home & Garden,Brand A,41.85
+BOO_0079,Books Product 80,Books,Brand B,12.77
+BOO_0080,Books Product 81,Books,Brand C,12.4
+ELE_0081,Electronics Product 82,Electronics,Brand D,151.8
+HOM_0082,Home & Garden Product 83,Home & Garden,Brand E,38.78
+HOM_0083,Home & Garden Product 84,Home & Garden,Brand F,36.28
+BOO_0084,Books Product 85,Books,Brand G,12.95
+FOO_0085,Food & Beverage Product 86,Food & Beverage,Brand H,10.03
+SPO_0086,Sports Product 87,Sports,Brand I,45.3
+BOO_0087,Books Product 88,Books,Brand J,11.26
+BOO_0088,Books Product 89,Books,Brand K,11.65
+ELE_0089,Electronics Product 90,Electronics,Brand L,194.38
+ELE_0090,Electronics Product 91,Electronics,Brand M,180.83
+BOO_0091,Books Product 92,Books,Brand N,14.29
+FOO_0092,Food & Beverage Product 93,Food & Beverage,Brand O,9.85
+CLO_0093,Clothing Product 94,Clothing,Brand P,18.54
+ELE_0094,Electronics Product 95,Electronics,Brand Q,211.61
+HOM_0095,Home & Garden Product 96,Home & Garden,Brand R,46.69
+FOO_0096,Food & Beverage Product 97,Food & Beverage,Brand S,10.25
+FOO_0097,Food & Beverage Product 98,Food & Beverage,Brand T,10.44
+BOO_0098,Books Product 99,Books,Brand U,12.29
+SPO_0099,Sports Product 100,Sports,Brand V,40.43
+FOO_0100,Food & Beverage Product 1,Food & Beverage,Brand W,8.26
+CLO_0101,Clothing Product 2,Clothing,Brand X,17.18
+FOO_0102,Food & Beverage Product 3,Food & Beverage,Brand Y,10.59
+FOO_0103,Food & Beverage Product 4,Food & Beverage,Brand Z,9.89
+CLO_0104,Clothing Product 5,Clothing,Brand A,20.51
+HOM_0105,Home & Garden Product 6,Home & Garden,Brand B,42.83
+ELE_0106,Electronics Product 7,Electronics,Brand C,165.33
+CLO_0107,Clothing Product 8,Clothing,Brand D,19.05
+BOO_0108,Books Product 9,Books,Brand E,13.87
+HOM_0109,Home & Garden Product 10,Home & Garden,Brand F,43.88
+SPO_0110,Sports Product 11,Sports,Brand G,46.5
+BOO_0111,Books Product 12,Books,Brand H,13.16
+FOO_0112,Food & Beverage Product 13,Food & Beverage,Brand I,7.81
+ELE_0113,Electronics Product 14,Electronics,Brand J,163.88
+FOO_0114,Food & Beverage Product 15,Food & Beverage,Brand K,9.48
+HOM_0115,Home & Garden Product 16,Home & Garden,Brand L,37.26
+CLO_0116,Clothing Product 17,Clothing,Brand M,20.95
+CLO_0117,Clothing Product 18,Clothing,Brand N,22.0
+CLO_0118,Clothing Product 19,Clothing,Brand O,15.87
+CLO_0119,Clothing Product 20,Clothing,Brand P,23.39
+BOO_0120,Books Product 21,Books,Brand Q,15.16
+ELE_0121,Electronics Product 22,Electronics,Brand R,176.2
+FOO_0122,Food & Beverage Product 23,Food & Beverage,Brand S,9.27
+FOO_0123,Food & Beverage Product 24,Food & Beverage,Brand T,9.71
+SPO_0124,Sports Product 25,Sports,Brand U,41.71
+CLO_0125,Clothing Product 26,Clothing,Brand V,20.82
+ELE_0126,Electronics Product 27,Electronics,Brand W,207.58
+ELE_0127,Electronics Product 28,Electronics,Brand X,199.38
+CLO_0128,Clothing Product 29,Clothing,Brand Y,17.06
+FOO_0129,Food & Beverage Product 30,Food & Beverage,Brand Z,9.06
+ELE_0130,Electronics Product 31,Electronics,Brand A,183.52
+ELE_0131,Electronics Product 32,Electronics,Brand B,176.28
+SPO_0132,Sports Product 33,Sports,Brand C,46.36
+BOO_0133,Books Product 34,Books,Brand D,13.81
+SPO_0134,Sports Product 35,Sports,Brand E,45.41
+FOO_0135,Food & Beverage Product 36,Food & Beverage,Brand F,10.41
+SPO_0136,Sports Product 37,Sports,Brand G,49.2
+BOO_0137,Books Product 38,Books,Brand H,13.01
+CLO_0138,Clothing Product 39,Clothing,Brand I,21.51
+SPO_0139,Sports Product 40,Sports,Brand J,42.58
+CLO_0140,Clothing Product 41,Clothing,Brand K,22.26
+HOM_0141,Home & Garden Product 42,Home & Garden,Brand L,49.23
+BOO_0142,Books Product 43,Books,Brand M,13.22
+CLO_0143,Clothing Product 44,Clothing,Brand N,17.83
+ELE_0144,Electronics Product 45,Electronics,Brand O,194.72
+CLO_0145,Clothing Product 46,Clothing,Brand P,17.81
+HOM_0146,Home & Garden Product 47,Home & Garden,Brand Q,51.5
+ELE_0147,Electronics Product 48,Electronics,Brand R,153.45
+CLO_0148,Clothing Product 49,Clothing,Brand S,18.68
+CLO_0149,Clothing Product 50,Clothing,Brand T,21.22
+ELE_0150,Electronics Product 51,Electronics,Brand U,173.29
+HOM_0151,Home & Garden Product 52,Home & Garden,Brand V,45.26
+SPO_0152,Sports Product 53,Sports,Brand W,35.84
+SPO_0153,Sports Product 54,Sports,Brand X,41.53
+BOO_0154,Books Product 55,Books,Brand Y,15.67
+ELE_0155,Electronics Product 56,Electronics,Brand Z,205.0
+BOO_0156,Books Product 57,Books,Brand A,12.66
+ELE_0157,Electronics Product 58,Electronics,Brand B,211.17
+HOM_0158,Home & Garden Product 59,Home & Garden,Brand C,49.01
+SPO_0159,Sports Product 60,Sports,Brand D,44.11
+FOO_0160,Food & Beverage Product 61,Food & Beverage,Brand E,9.17
+BOO_0161,Books Product 62,Books,Brand F,15.42
+SPO_0162,Sports Product 63,Sports,Brand G,38.57
+SPO_0163,Sports Product 64,Sports,Brand H,43.2
+SPO_0164,Sports Product 65,Sports,Brand I,40.6
+FOO_0165,Food & Beverage Product 66,Food & Beverage,Brand J,10.07
+FOO_0166,Food & Beverage Product 67,Food & Beverage,Brand K,7.79
+SPO_0167,Sports Product 68,Sports,Brand L,50.74
+BOO_0168,Books Product 69,Books,Brand M,13.48
+SPO_0169,Sports Product 70,Sports,Brand N,45.05
+FOO_0170,Food & Beverage Product 71,Food & Beverage,Brand O,7.3
+FOO_0171,Food & Beverage Product 72,Food & Beverage,Brand P,8.74
+SPO_0172,Sports Product 73,Sports,Brand Q,37.92
+HOM_0173,Home & Garden Product 74,Home & Garden,Brand R,42.35
+CLO_0174,Clothing Product 75,Clothing,Brand S,19.24
+HOM_0175,Home & Garden Product 76,Home & Garden,Brand T,49.15
+SPO_0176,Sports Product 77,Sports,Brand U,39.6
+SPO_0177,Sports Product 78,Sports,Brand V,39.14
+ELE_0178,Electronics Product 79,Electronics,Brand W,177.27
+FOO_0179,Food & Beverage Product 80,Food & Beverage,Brand X,9.14
+HOM_0180,Home & Garden Product 81,Home & Garden,Brand Y,39.59
+ELE_0181,Electronics Product 82,Electronics,Brand Z,199.58
+FOO_0182,Food & Beverage Product 83,Food & Beverage,Brand A,7.34
+ELE_0183,Electronics Product 84,Electronics,Brand B,211.66
+CLO_0184,Clothing Product 85,Clothing,Brand C,22.26
+BOO_0185,Books Product 86,Books,Brand D,11.45
+CLO_0186,Clothing Product 87,Clothing,Brand E,19.39
+ELE_0187,Electronics Product 88,Electronics,Brand F,183.99
+CLO_0188,Clothing Product 89,Clothing,Brand G,19.33
+HOM_0189,Home & Garden Product 90,Home & Garden,Brand H,49.25
+CLO_0190,Clothing Product 91,Clothing,Brand I,20.43
+FOO_0191,Food & Beverage Product 92,Food & Beverage,Brand J,9.79
+CLO_0192,Clothing Product 93,Clothing,Brand K,23.24
+ELE_0193,Electronics Product 94,Electronics,Brand L,185.05
+HOM_0194,Home & Garden Product 95,Home & Garden,Brand M,45.85
+SPO_0195,Sports Product 96,Sports,Brand N,41.65
+FOO_0196,Food & Beverage Product 97,Food & Beverage,Brand O,7.91
+BOO_0197,Books Product 98,Books,Brand P,14.31
+FOO_0198,Food & Beverage Product 99,Food & Beverage,Brand Q,8.07
+FOO_0199,Food & Beverage Product 100,Food & Beverage,Brand R,9.98
+FOO_0200,Food & Beverage Product 1,Food & Beverage,Brand S,9.36
+ELE_0201,Electronics Product 2,Electronics,Brand T,200.66
+BOO_0202,Books Product 3,Books,Brand U,14.8
+HOM_0203,Home & Garden Product 4,Home & Garden,Brand V,45.08
+FOO_0204,Food & Beverage Product 5,Food & Beverage,Brand W,8.53
+BOO_0205,Books Product 6,Books,Brand X,14.08
+ELE_0206,Electronics Product 7,Electronics,Brand Y,204.49
+SPO_0207,Sports Product 8,Sports,Brand Z,36.59
+HOM_0208,Home & Garden Product 9,Home & Garden,Brand A,46.91
+SPO_0209,Sports Product 10,Sports,Brand B,47.05
+SPO_0210,Sports Product 11,Sports,Brand C,37.82
+BOO_0211,Books Product 12,Books,Brand D,15.78
+HOM_0212,Home & Garden Product 13,Home & Garden,Brand E,46.56
+BOO_0213,Books Product 14,Books,Brand F,14.76
+SPO_0214,Sports Product 15,Sports,Brand G,42.33
+FOO_0215,Food & Beverage Product 16,Food & Beverage,Brand H,9.33
+HOM_0216,Home & Garden Product 17,Home & Garden,Brand I,50.76
+ELE_0217,Electronics Product 18,Electronics,Brand J,163.54
+SPO_0218,Sports Product 19,Sports,Brand K,39.0
+SPO_0219,Sports Product 20,Sports,Brand L,44.66
+FOO_0220,Food & Beverage Product 21,Food & Beverage,Brand M,8.56
+ELE_0221,Electronics Product 22,Electronics,Brand N,178.99
+HOM_0222,Home & Garden Product 23,Home & Garden,Brand O,38.84
+CLO_0223,Clothing Product 24,Clothing,Brand P,18.46
+HOM_0224,Home & Garden Product 25,Home & Garden,Brand Q,41.66
+BOO_0225,Books Product 26,Books,Brand R,14.37
+HOM_0226,Home & Garden Product 27,Home & Garden,Brand S,45.49
+BOO_0227,Books Product 28,Books,Brand T,15.68
+ELE_0228,Electronics Product 29,Electronics,Brand U,160.84
+SPO_0229,Sports Product 30,Sports,Brand V,43.25
+CLO_0230,Clothing Product 31,Clothing,Brand W,21.09
+FOO_0231,Food & Beverage Product 32,Food & Beverage,Brand X,9.76
+SPO_0232,Sports Product 33,Sports,Brand Y,48.54
+ELE_0233,Electronics Product 34,Electronics,Brand Z,164.63
+SPO_0234,Sports Product 35,Sports,Brand A,46.78
+HOM_0235,Home & Garden Product 36,Home & Garden,Brand B,47.42
+HOM_0236,Home & Garden Product 37,Home & Garden,Brand C,44.02
+BOO_0237,Books Product 38,Books,Brand D,12.47
+FOO_0238,Food & Beverage Product 39,Food & Beverage,Brand E,9.18
+HOM_0239,Home & Garden Product 40,Home & Garden,Brand F,48.11
+HOM_0240,Home & Garden Product 41,Home & Garden,Brand G,41.06
+CLO_0241,Clothing Product 42,Clothing,Brand H,16.63
+CLO_0242,Clothing Product 43,Clothing,Brand I,18.15
+FOO_0243,Food & Beverage Product 44,Food & Beverage,Brand J,9.13
+FOO_0244,Food & Beverage Product 45,Food & Beverage,Brand K,7.87
+CLO_0245,Clothing Product 46,Clothing,Brand L,21.47
+HOM_0246,Home & Garden Product 47,Home & Garden,Brand M,48.5
+BOO_0247,Books Product 48,Books,Brand N,13.81
+ELE_0248,Electronics Product 49,Electronics,Brand O,203.27
+HOM_0249,Home & Garden Product 50,Home & Garden,Brand P,39.65
+CLO_0250,Clothing Product 51,Clothing,Brand Q,18.05
+FOO_0251,Food & Beverage Product 52,Food & Beverage,Brand R,9.12
+HOM_0252,Home & Garden Product 53,Home & Garden,Brand S,36.41
+ELE_0253,Electronics Product 54,Electronics,Brand T,183.23
+FOO_0254,Food & Beverage Product 55,Food & Beverage,Brand U,10.6
+FOO_0255,Food & Beverage Product 56,Food & Beverage,Brand V,10.33
+SPO_0256,Sports Product 57,Sports,Brand W,36.54
+ELE_0257,Electronics Product 58,Electronics,Brand X,184.71
+SPO_0258,Sports Product 59,Sports,Brand Y,43.08
+HOM_0259,Home & Garden Product 60,Home & Garden,Brand Z,38.88
+ELE_0260,Electronics Product 61,Electronics,Brand A,161.64
+SPO_0261,Sports Product 62,Sports,Brand B,36.74
+ELE_0262,Electronics Product 63,Electronics,Brand C,172.27
+ELE_0263,Electronics Product 64,Electronics,Brand D,184.93
+FOO_0264,Food & Beverage Product 65,Food & Beverage,Brand E,7.39
+CLO_0265,Clothing Product 66,Clothing,Brand F,22.04
+HOM_0266,Home & Garden Product 67,Home & Garden,Brand G,37.12
+CLO_0267,Clothing Product 68,Clothing,Brand H,16.61
+SPO_0268,Sports Product 69,Sports,Brand I,45.3
+BOO_0269,Books Product 70,Books,Brand J,11.84
+BOO_0270,Books Product 71,Books,Brand K,12.66
+SPO_0271,Sports Product 72,Sports,Brand L,39.93
+BOO_0272,Books Product 73,Books,Brand M,15.91
+HOM_0273,Home & Garden Product 74,Home & Garden,Brand N,45.72
+ELE_0274,Electronics Product 75,Electronics,Brand O,187.27
+FOO_0275,Food & Beverage Product 76,Food & Beverage,Brand P,7.56
+CLO_0276,Clothing Product 77,Clothing,Brand Q,20.58
+HOM_0277,Home & Garden Product 78,Home & Garden,Brand R,47.36
+CLO_0278,Clothing Product 79,Clothing,Brand S,17.56
+BOO_0279,Books Product 80,Books,Brand T,11.04
+ELE_0280,Electronics Product 81,Electronics,Brand U,172.84
+FOO_0281,Food & Beverage Product 82,Food & Beverage,Brand V,9.34
+HOM_0282,Home & Garden Product 83,Home & Garden,Brand W,36.18
+HOM_0283,Home & Garden Product 84,Home & Garden,Brand X,48.18
+FOO_0284,Food & Beverage Product 85,Food & Beverage,Brand Y,10.29
+ELE_0285,Electronics Product 86,Electronics,Brand Z,192.85
+HOM_0286,Home & Garden Product 87,Home & Garden,Brand A,49.62
+FOO_0287,Food & Beverage Product 88,Food & Beverage,Brand B,9.32
+CLO_0288,Clothing Product 89,Clothing,Brand C,19.01
+BOO_0289,Books Product 90,Books,Brand D,11.84
+CLO_0290,Clothing Product 91,Clothing,Brand E,22.8
+CLO_0291,Clothing Product 92,Clothing,Brand F,16.24
+CLO_0292,Clothing Product 93,Clothing,Brand G,21.89
+BOO_0293,Books Product 94,Books,Brand H,14.62
+BOO_0294,Books Product 95,Books,Brand I,15.54
+SPO_0295,Sports Product 96,Sports,Brand J,36.92
+FOO_0296,Food & Beverage Product 97,Food & Beverage,Brand K,8.29
+SPO_0297,Sports Product 98,Sports,Brand L,51.14
+BOO_0298,Books Product 99,Books,Brand M,13.51
+SPO_0299,Sports Product 100,Sports,Brand N,36.16
+ELE_0300,Electronics Product 1,Electronics,Brand O,207.34
+FOO_0301,Food & Beverage Product 2,Food & Beverage,Brand P,8.36
+HOM_0302,Home & Garden Product 3,Home & Garden,Brand Q,36.06
+CLO_0303,Clothing Product 4,Clothing,Brand R,23.22
+BOO_0304,Books Product 5,Books,Brand S,13.76
+ELE_0305,Electronics Product 6,Electronics,Brand T,215.25
+FOO_0306,Food & Beverage Product 7,Food & Beverage,Brand U,10.16
+BOO_0307,Books Product 8,Books,Brand V,10.85
+CLO_0308,Clothing Product 9,Clothing,Brand W,19.37
+FOO_0309,Food & Beverage Product 10,Food & Beverage,Brand X,8.79
+HOM_0310,Home & Garden Product 11,Home & Garden,Brand Y,38.83
+BOO_0311,Books Product 12,Books,Brand Z,12.96
+SPO_0312,Sports Product 13,Sports,Brand A,51.6
+SPO_0313,Sports Product 14,Sports,Brand B,40.81
+HOM_0314,Home & Garden Product 15,Home & Garden,Brand C,41.31
+ELE_0315,Electronics Product 16,Electronics,Brand D,205.07
+HOM_0316,Home & Garden Product 17,Home & Garden,Brand E,42.93
+SPO_0317,Sports Product 18,Sports,Brand F,39.77
+SPO_0318,Sports Product 19,Sports,Brand G,48.9
+BOO_0319,Books Product 20,Books,Brand H,10.84
+ELE_0320,Electronics Product 21,Electronics,Brand I,166.09
+HOM_0321,Home & Garden Product 22,Home & Garden,Brand J,37.66
+SPO_0322,Sports Product 23,Sports,Brand K,49.79
+ELE_0323,Electronics Product 24,Electronics,Brand L,190.71
+BOO_0324,Books Product 25,Books,Brand M,13.1
+ELE_0325,Electronics Product 26,Electronics,Brand N,156.98
+HOM_0326,Home & Garden Product 27,Home & Garden,Brand O,46.68
+SPO_0327,Sports Product 28,Sports,Brand P,45.63
+ELE_0328,Electronics Product 29,Electronics,Brand Q,158.13
+BOO_0329,Books Product 30,Books,Brand R,11.34
+HOM_0330,Home & Garden Product 31,Home & Garden,Brand S,43.4
+FOO_0331,Food & Beverage Product 32,Food & Beverage,Brand T,8.94
+ELE_0332,Electronics Product 33,Electronics,Brand U,213.35
+BOO_0333,Books Product 34,Books,Brand V,14.89
+FOO_0334,Food & Beverage Product 35,Food & Beverage,Brand W,7.77
+BOO_0335,Books Product 36,Books,Brand X,10.71
+SPO_0336,Sports Product 37,Sports,Brand Y,36.38
+ELE_0337,Electronics Product 38,Electronics,Brand Z,176.63
+ELE_0338,Electronics Product 39,Electronics,Brand A,190.0
+CLO_0339,Clothing Product 40,Clothing,Brand B,19.59
+FOO_0340,Food & Beverage Product 41,Food & Beverage,Brand C,8.25
+FOO_0341,Food & Beverage Product 42,Food & Beverage,Brand D,8.18
+SPO_0342,Sports Product 43,Sports,Brand E,51.8
+CLO_0343,Clothing Product 44,Clothing,Brand F,19.26
+CLO_0344,Clothing Product 45,Clothing,Brand G,18.69
+BOO_0345,Books Product 46,Books,Brand H,13.34
+CLO_0346,Clothing Product 47,Clothing,Brand I,22.45
+HOM_0347,Home & Garden Product 48,Home & Garden,Brand J,49.35
+SPO_0348,Sports Product 49,Sports,Brand K,40.67
+BOO_0349,Books Product 50,Books,Brand L,12.06
+ELE_0350,Electronics Product 51,Electronics,Brand M,163.82
+HOM_0351,Home & Garden Product 52,Home & Garden,Brand N,50.51
+BOO_0352,Books Product 53,Books,Brand O,15.95
+SPO_0353,Sports Product 54,Sports,Brand P,49.8
+SPO_0354,Sports Product 55,Sports,Brand Q,44.12
+HOM_0355,Home & Garden Product 56,Home & Garden,Brand R,41.52
+BOO_0356,Books Product 57,Books,Brand S,12.65
+HOM_0357,Home & Garden Product 58,Home & Garden,Brand T,51.08
+FOO_0358,Food & Beverage Product 59,Food & Beverage,Brand U,8.06
+SPO_0359,Sports Product 60,Sports,Brand V,38.82
+SPO_0360,Sports Product 61,Sports,Brand W,35.52
+FOO_0361,Food & Beverage Product 62,Food & Beverage,Brand X,8.9
+SPO_0362,Sports Product 63,Sports,Brand Y,41.47
+FOO_0363,Food & Beverage Product 64,Food & Beverage,Brand Z,10.05
+FOO_0364,Food & Beverage Product 65,Food & Beverage,Brand A,10.73
+SPO_0365,Sports Product 66,Sports,Brand B,51.53
+CLO_0366,Clothing Product 67,Clothing,Brand C,19.62
+BOO_0367,Books Product 68,Books,Brand D,12.41
+ELE_0368,Electronics Product 69,Electronics,Brand E,206.25
+SPO_0369,Sports Product 70,Sports,Brand F,36.49
+SPO_0370,Sports Product 71,Sports,Brand G,35.03
+CLO_0371,Clothing Product 72,Clothing,Brand H,18.89
+FOO_0372,Food & Beverage Product 73,Food & Beverage,Brand I,10.69
+ELE_0373,Electronics Product 74,Electronics,Brand J,177.21
+HOM_0374,Home & Garden Product 75,Home & Garden,Brand K,41.63
+FOO_0375,Food & Beverage Product 76,Food & Beverage,Brand L,8.63
+ELE_0376,Electronics Product 77,Electronics,Brand M,204.64
+FOO_0377,Food & Beverage Product 78,Food & Beverage,Brand N,10.29
+SPO_0378,Sports Product 79,Sports,Brand O,51.34
+FOO_0379,Food & Beverage Product 80,Food & Beverage,Brand P,9.79
+SPO_0380,Sports Product 81,Sports,Brand Q,49.92
+ELE_0381,Electronics Product 82,Electronics,Brand R,187.83
+CLO_0382,Clothing Product 83,Clothing,Brand S,20.63
+HOM_0383,Home & Garden Product 84,Home & Garden,Brand T,53.35
+FOO_0384,Food & Beverage Product 85,Food & Beverage,Brand U,7.53
+ELE_0385,Electronics Product 86,Electronics,Brand V,198.08
+FOO_0386,Food & Beverage Product 87,Food & Beverage,Brand W,10.34
+SPO_0387,Sports Product 88,Sports,Brand X,37.65
+HOM_0388,Home & Garden Product 89,Home & Garden,Brand Y,51.68
+ELE_0389,Electronics Product 90,Electronics,Brand Z,166.8
+ELE_0390,Electronics Product 91,Electronics,Brand A,164.57
+HOM_0391,Home & Garden Product 92,Home & Garden,Brand B,43.27
+CLO_0392,Clothing Product 93,Clothing,Brand C,19.84
+BOO_0393,Books Product 94,Books,Brand D,14.27
+CLO_0394,Clothing Product 95,Clothing,Brand E,17.01
+ELE_0395,Electronics Product 96,Electronics,Brand F,187.26
+SPO_0396,Sports Product 97,Sports,Brand G,45.53
+CLO_0397,Clothing Product 98,Clothing,Brand H,19.58
+BOO_0398,Books Product 99,Books,Brand I,11.4
+SPO_0399,Sports Product 100,Sports,Brand J,45.85
+SPO_0400,Sports Product 1,Sports,Brand K,39.2
+ELE_0401,Electronics Product 2,Electronics,Brand L,208.03
+SPO_0402,Sports Product 3,Sports,Brand M,50.42
+FOO_0403,Food & Beverage Product 4,Food & Beverage,Brand N,9.17
+ELE_0404,Electronics Product 5,Electronics,Brand O,175.22
+HOM_0405,Home & Garden Product 6,Home & Garden,Brand P,53.18
+HOM_0406,Home & Garden Product 7,Home & Garden,Brand Q,46.97
+SPO_0407,Sports Product 8,Sports,Brand R,46.76
+SPO_0408,Sports Product 9,Sports,Brand S,49.45
+CLO_0409,Clothing Product 10,Clothing,Brand T,23.52
+SPO_0410,Sports Product 11,Sports,Brand U,36.61
+SPO_0411,Sports Product 12,Sports,Brand V,44.7
+BOO_0412,Books Product 13,Books,Brand W,12.21
+FOO_0413,Food & Beverage Product 14,Food & Beverage,Brand X,8.26
+FOO_0414,Food & Beverage Product 15,Food & Beverage,Brand Y,8.62
+ELE_0415,Electronics Product 16,Electronics,Brand Z,184.13
+FOO_0416,Food & Beverage Product 17,Food & Beverage,Brand A,10.0
+ELE_0417,Electronics Product 18,Electronics,Brand B,208.87
+FOO_0418,Food & Beverage Product 19,Food & Beverage,Brand C,8.99
+HOM_0419,Home & Garden Product 20,Home & Garden,Brand D,49.41
+CLO_0420,Clothing Product 21,Clothing,Brand E,20.44
+HOM_0421,Home & Garden Product 22,Home & Garden,Brand F,39.5
+CLO_0422,Clothing Product 23,Clothing,Brand G,20.55
+FOO_0423,Food & Beverage Product 24,Food & Beverage,Brand H,9.92
+FOO_0424,Food & Beverage Product 25,Food & Beverage,Brand I,9.65
+CLO_0425,Clothing Product 26,Clothing,Brand J,20.61
+FOO_0426,Food & Beverage Product 27,Food & Beverage,Brand K,9.53
+HOM_0427,Home & Garden Product 28,Home & Garden,Brand L,49.64
+ELE_0428,Electronics Product 29,Electronics,Brand M,185.11
+FOO_0429,Food & Beverage Product 30,Food & Beverage,Brand N,7.67
+HOM_0430,Home & Garden Product 31,Home & Garden,Brand O,41.42
+SPO_0431,Sports Product 32,Sports,Brand P,37.81
+CLO_0432,Clothing Product 33,Clothing,Brand Q,21.85
+HOM_0433,Home & Garden Product 34,Home & Garden,Brand R,45.05
+HOM_0434,Home & Garden Product 35,Home & Garden,Brand S,50.38
+HOM_0435,Home & Garden Product 36,Home & Garden,Brand T,51.87
+SPO_0436,Sports Product 37,Sports,Brand U,51.57
+HOM_0437,Home & Garden Product 38,Home & Garden,Brand V,48.89
+HOM_0438,Home & Garden Product 39,Home & Garden,Brand W,49.92
+SPO_0439,Sports Product 40,Sports,Brand X,51.5
+CLO_0440,Clothing Product 41,Clothing,Brand Y,21.59
+CLO_0441,Clothing Product 42,Clothing,Brand Z,22.42
+FOO_0442,Food & Beverage Product 43,Food & Beverage,Brand A,9.63
+SPO_0443,Sports Product 44,Sports,Brand B,51.57
+BOO_0444,Books Product 45,Books,Brand C,12.59
+SPO_0445,Sports Product 46,Sports,Brand D,35.0
+BOO_0446,Books Product 47,Books,Brand E,11.3
+HOM_0447,Home & Garden Product 48,Home & Garden,Brand F,47.58
+FOO_0448,Food & Beverage Product 49,Food & Beverage,Brand G,8.14
+SPO_0449,Sports Product 50,Sports,Brand H,49.05
+HOM_0450,Home & Garden Product 51,Home & Garden,Brand I,37.53
+CLO_0451,Clothing Product 52,Clothing,Brand J,19.38
+BOO_0452,Books Product 53,Books,Brand K,15.34
+BOO_0453,Books Product 54,Books,Brand L,12.38
+BOO_0454,Books Product 55,Books,Brand M,11.82
+ELE_0455,Electronics Product 56,Electronics,Brand N,189.12
+SPO_0456,Sports Product 57,Sports,Brand O,50.57
+HOM_0457,Home & Garden Product 58,Home & Garden,Brand P,47.16
+ELE_0458,Electronics Product 59,Electronics,Brand Q,153.55
+ELE_0459,Electronics Product 60,Electronics,Brand R,165.36
+SPO_0460,Sports Product 61,Sports,Brand S,36.78
+CLO_0461,Clothing Product 62,Clothing,Brand T,22.64
+CLO_0462,Clothing Product 63,Clothing,Brand U,18.73
+HOM_0463,Home & Garden Product 64,Home & Garden,Brand V,47.53
+FOO_0464,Food & Beverage Product 65,Food & Beverage,Brand W,9.71
+BOO_0465,Books Product 66,Books,Brand X,12.87
+FOO_0466,Food & Beverage Product 67,Food & Beverage,Brand Y,9.82
+SPO_0467,Sports Product 68,Sports,Brand Z,46.14
+SPO_0468,Sports Product 69,Sports,Brand A,45.46
+HOM_0469,Home & Garden Product 70,Home & Garden,Brand B,36.18
+HOM_0470,Home & Garden Product 71,Home & Garden,Brand C,39.47
+SPO_0471,Sports Product 72,Sports,Brand D,51.28
+HOM_0472,Home & Garden Product 73,Home & Garden,Brand E,37.37
+FOO_0473,Food & Beverage Product 74,Food & Beverage,Brand F,8.52
+FOO_0474,Food & Beverage Product 75,Food & Beverage,Brand G,8.49
+SPO_0475,Sports Product 76,Sports,Brand H,39.55
+ELE_0476,Electronics Product 77,Electronics,Brand I,211.62
+SPO_0477,Sports Product 78,Sports,Brand J,36.35
+CLO_0478,Clothing Product 79,Clothing,Brand K,20.71
+BOO_0479,Books Product 80,Books,Brand L,15.81
+ELE_0480,Electronics Product 81,Electronics,Brand M,199.98
+CLO_0481,Clothing Product 82,Clothing,Brand N,23.43
+BOO_0482,Books Product 83,Books,Brand O,11.73
+BOO_0483,Books Product 84,Books,Brand P,11.74
+CLO_0484,Clothing Product 85,Clothing,Brand Q,22.05
+CLO_0485,Clothing Product 86,Clothing,Brand R,18.26
+CLO_0486,Clothing Product 87,Clothing,Brand S,21.86
+BOO_0487,Books Product 88,Books,Brand T,10.66
+CLO_0488,Clothing Product 89,Clothing,Brand U,23.42
+BOO_0489,Books Product 90,Books,Brand V,11.97
+CLO_0490,Clothing Product 91,Clothing,Brand W,16.54
+ELE_0491,Electronics Product 92,Electronics,Brand X,152.98
+HOM_0492,Home & Garden Product 93,Home & Garden,Brand Y,49.66
+CLO_0493,Clothing Product 94,Clothing,Brand Z,20.3
+ELE_0494,Electronics Product 95,Electronics,Brand A,156.02
+ELE_0495,Electronics Product 96,Electronics,Brand B,152.62
+SPO_0496,Sports Product 97,Sports,Brand C,43.9
+FOO_0497,Food & Beverage Product 98,Food & Beverage,Brand D,7.43
+SPO_0498,Sports Product 99,Sports,Brand E,48.28
+BOO_0499,Books Product 100,Books,Brand F,13.8
+SPO_0500,Sports Product 1,Sports,Brand G,43.52
+BOO_0501,Books Product 2,Books,Brand H,10.87
+FOO_0502,Food & Beverage Product 3,Food & Beverage,Brand I,9.08
+SPO_0503,Sports Product 4,Sports,Brand J,45.94
+ELE_0504,Electronics Product 5,Electronics,Brand K,147.88
+SPO_0505,Sports Product 6,Sports,Brand L,49.49
+SPO_0506,Sports Product 7,Sports,Brand M,46.68
+SPO_0507,Sports Product 8,Sports,Brand N,47.14
+SPO_0508,Sports Product 9,Sports,Brand O,36.04
+ELE_0509,Electronics Product 10,Electronics,Brand P,166.63
+CLO_0510,Clothing Product 11,Clothing,Brand Q,16.19
+HOM_0511,Home & Garden Product 12,Home & Garden,Brand R,46.71
+BOO_0512,Books Product 13,Books,Brand S,13.56
+HOM_0513,Home & Garden Product 14,Home & Garden,Brand T,42.38
+BOO_0514,Books Product 15,Books,Brand U,13.46
+SPO_0515,Sports Product 16,Sports,Brand V,43.55
+SPO_0516,Sports Product 17,Sports,Brand W,36.48
+FOO_0517,Food & Beverage Product 18,Food & Beverage,Brand X,7.61
+FOO_0518,Food & Beverage Product 19,Food & Beverage,Brand Y,9.54
+BOO_0519,Books Product 20,Books,Brand Z,14.47
+CLO_0520,Clothing Product 21,Clothing,Brand A,19.05
+CLO_0521,Clothing Product 22,Clothing,Brand B,18.92
+SPO_0522,Sports Product 23,Sports,Brand C,41.69
+FOO_0523,Food & Beverage Product 24,Food & Beverage,Brand D,7.54
+SPO_0524,Sports Product 25,Sports,Brand E,40.19
+HOM_0525,Home & Garden Product 26,Home & Garden,Brand F,42.26
+CLO_0526,Clothing Product 27,Clothing,Brand G,21.06
+SPO_0527,Sports Product 28,Sports,Brand H,35.93
+ELE_0528,Electronics Product 29,Electronics,Brand I,150.21
+ELE_0529,Electronics Product 30,Electronics,Brand J,196.95
+HOM_0530,Home & Garden Product 31,Home & Garden,Brand K,50.05
+BOO_0531,Books Product 32,Books,Brand L,10.96
+BOO_0532,Books Product 33,Books,Brand M,13.63
+FOO_0533,Food & Beverage Product 34,Food & Beverage,Brand N,7.64
+HOM_0534,Home & Garden Product 35,Home & Garden,Brand O,51.15
+SPO_0535,Sports Product 36,Sports,Brand P,49.85
+FOO_0536,Food & Beverage Product 37,Food & Beverage,Brand Q,7.39
+HOM_0537,Home & Garden Product 38,Home & Garden,Brand R,46.29
+HOM_0538,Home & Garden Product 39,Home & Garden,Brand S,37.44
+BOO_0539,Books Product 40,Books,Brand T,11.77
+FOO_0540,Food & Beverage Product 41,Food & Beverage,Brand U,8.94
+ELE_0541,Electronics Product 42,Electronics,Brand V,168.64
+BOO_0542,Books Product 43,Books,Brand W,12.6
+HOM_0543,Home & Garden Product 44,Home & Garden,Brand X,45.82
+SPO_0544,Sports Product 45,Sports,Brand Y,49.45
+BOO_0545,Books Product 46,Books,Brand Z,13.9
+FOO_0546,Food & Beverage Product 47,Food & Beverage,Brand A,9.2
+BOO_0547,Books Product 48,Books,Brand B,15.58
+FOO_0548,Food & Beverage Product 49,Food & Beverage,Brand C,8.16
+CLO_0549,Clothing Product 50,Clothing,Brand D,17.82
+HOM_0550,Home & Garden Product 51,Home & Garden,Brand E,52.0
+HOM_0551,Home & Garden Product 52,Home & Garden,Brand F,35.71
+CLO_0552,Clothing Product 53,Clothing,Brand G,20.12
+SPO_0553,Sports Product 54,Sports,Brand H,35.97
+FOO_0554,Food & Beverage Product 55,Food & Beverage,Brand I,9.48
+ELE_0555,Electronics Product 56,Electronics,Brand J,150.1
+BOO_0556,Books Product 57,Books,Brand K,11.78
+SPO_0557,Sports Product 58,Sports,Brand L,42.64
+CLO_0558,Clothing Product 59,Clothing,Brand M,18.58
+FOO_0559,Food & Beverage Product 60,Food & Beverage,Brand N,8.37
+BOO_0560,Books Product 61,Books,Brand O,13.81
+ELE_0561,Electronics Product 62,Electronics,Brand P,154.68
+BOO_0562,Books Product 63,Books,Brand Q,10.9
+ELE_0563,Electronics Product 64,Electronics,Brand R,163.05
+FOO_0564,Food & Beverage Product 65,Food & Beverage,Brand S,8.73
+BOO_0565,Books Product 66,Books,Brand T,12.99
+HOM_0566,Home & Garden Product 67,Home & Garden,Brand U,39.44
+BOO_0567,Books Product 68,Books,Brand V,11.25
+SPO_0568,Sports Product 69,Sports,Brand W,36.69
+FOO_0569,Food & Beverage Product 70,Food & Beverage,Brand X,9.64
+SPO_0570,Sports Product 71,Sports,Brand Y,43.92
+HOM_0571,Home & Garden Product 72,Home & Garden,Brand Z,36.41
+SPO_0572,Sports Product 73,Sports,Brand A,51.87
+ELE_0573,Electronics Product 74,Electronics,Brand B,144.07
+HOM_0574,Home & Garden Product 75,Home & Garden,Brand C,52.43
+CLO_0575,Clothing Product 76,Clothing,Brand D,21.67
+HOM_0576,Home & Garden Product 77,Home & Garden,Brand E,41.44
+ELE_0577,Electronics Product 78,Electronics,Brand F,179.21
+SPO_0578,Sports Product 79,Sports,Brand G,37.81
+SPO_0579,Sports Product 80,Sports,Brand H,44.02
+CLO_0580,Clothing Product 81,Clothing,Brand I,19.6
+FOO_0581,Food & Beverage Product 82,Food & Beverage,Brand J,10.1
+ELE_0582,Electronics Product 83,Electronics,Brand K,172.01
+FOO_0583,Food & Beverage Product 84,Food & Beverage,Brand L,7.35
+ELE_0584,Electronics Product 85,Electronics,Brand M,176.51
+ELE_0585,Electronics Product 86,Electronics,Brand N,205.39
+BOO_0586,Books Product 87,Books,Brand O,12.92
+SPO_0587,Sports Product 88,Sports,Brand P,47.09
+SPO_0588,Sports Product 89,Sports,Brand Q,39.79
+SPO_0589,Sports Product 90,Sports,Brand R,35.12
+HOM_0590,Home & Garden Product 91,Home & Garden,Brand S,38.66
+BOO_0591,Books Product 92,Books,Brand T,13.09
+FOO_0592,Food & Beverage Product 93,Food & Beverage,Brand U,10.51
+ELE_0593,Electronics Product 94,Electronics,Brand V,174.86
+ELE_0594,Electronics Product 95,Electronics,Brand W,160.98
+BOO_0595,Books Product 96,Books,Brand X,12.77
+ELE_0596,Electronics Product 97,Electronics,Brand Y,171.92
+HOM_0597,Home & Garden Product 98,Home & Garden,Brand Z,48.88
+CLO_0598,Clothing Product 99,Clothing,Brand A,18.29
+CLO_0599,Clothing Product 100,Clothing,Brand B,16.28
+FOO_0600,Food & Beverage Product 1,Food & Beverage,Brand C,7.61
+BOO_0601,Books Product 2,Books,Brand D,11.67
+HOM_0602,Home & Garden Product 3,Home & Garden,Brand E,41.85
+FOO_0603,Food & Beverage Product 4,Food & Beverage,Brand F,10.13
+CLO_0604,Clothing Product 5,Clothing,Brand G,16.49
+HOM_0605,Home & Garden Product 6,Home & Garden,Brand H,39.11
+BOO_0606,Books Product 7,Books,Brand I,11.45
+FOO_0607,Food & Beverage Product 8,Food & Beverage,Brand J,7.47
+FOO_0608,Food & Beverage Product 9,Food & Beverage,Brand K,8.98
+BOO_0609,Books Product 10,Books,Brand L,14.68
+SPO_0610,Sports Product 11,Sports,Brand M,46.6
+BOO_0611,Books Product 12,Books,Brand N,14.06
+BOO_0612,Books Product 13,Books,Brand O,12.36
+FOO_0613,Food & Beverage Product 14,Food & Beverage,Brand P,8.34
+SPO_0614,Sports Product 15,Sports,Brand Q,35.95
+SPO_0615,Sports Product 16,Sports,Brand R,45.73
+HOM_0616,Home & Garden Product 17,Home & Garden,Brand S,46.13
+HOM_0617,Home & Garden Product 18,Home & Garden,Brand T,44.63
+HOM_0618,Home & Garden Product 19,Home & Garden,Brand U,43.82
+ELE_0619,Electronics Product 20,Electronics,Brand V,147.6
+HOM_0620,Home & Garden Product 21,Home & Garden,Brand W,36.97
+ELE_0621,Electronics Product 22,Electronics,Brand X,187.65
+BOO_0622,Books Product 23,Books,Brand Y,12.69
+BOO_0623,Books Product 24,Books,Brand Z,13.59
+FOO_0624,Food & Beverage Product 25,Food & Beverage,Brand A,10.43
+SPO_0625,Sports Product 26,Sports,Brand B,50.56
+BOO_0626,Books Product 27,Books,Brand C,14.11
+HOM_0627,Home & Garden Product 28,Home & Garden,Brand D,46.37
+BOO_0628,Books Product 29,Books,Brand E,11.44
+ELE_0629,Electronics Product 30,Electronics,Brand F,175.85
+HOM_0630,Home & Garden Product 31,Home & Garden,Brand G,53.09
+ELE_0631,Electronics Product 32,Electronics,Brand H,179.73
+CLO_0632,Clothing Product 33,Clothing,Brand I,15.99
+FOO_0633,Food & Beverage Product 34,Food & Beverage,Brand J,8.78
+SPO_0634,Sports Product 35,Sports,Brand K,43.87
+BOO_0635,Books Product 36,Books,Brand L,11.48
+HOM_0636,Home & Garden Product 37,Home & Garden,Brand M,51.94
+SPO_0637,Sports Product 38,Sports,Brand N,41.86
+HOM_0638,Home & Garden Product 39,Home & Garden,Brand O,47.68
+ELE_0639,Electronics Product 40,Electronics,Brand P,200.15
+FOO_0640,Food & Beverage Product 41,Food & Beverage,Brand Q,8.4
+HOM_0641,Home & Garden Product 42,Home & Garden,Brand R,37.28
+FOO_0642,Food & Beverage Product 43,Food & Beverage,Brand S,8.59
+HOM_0643,Home & Garden Product 44,Home & Garden,Brand T,48.48
+FOO_0644,Food & Beverage Product 45,Food & Beverage,Brand U,10.67
+BOO_0645,Books Product 46,Books,Brand V,15.29
+HOM_0646,Home & Garden Product 47,Home & Garden,Brand W,37.05
+FOO_0647,Food & Beverage Product 48,Food & Beverage,Brand X,7.71
+HOM_0648,Home & Garden Product 49,Home & Garden,Brand Y,41.12
+FOO_0649,Food & Beverage Product 50,Food & Beverage,Brand Z,9.71
+SPO_0650,Sports Product 51,Sports,Brand A,37.0
+FOO_0651,Food & Beverage Product 52,Food & Beverage,Brand B,10.58
+HOM_0652,Home & Garden Product 53,Home & Garden,Brand C,45.55
+FOO_0653,Food & Beverage Product 54,Food & Beverage,Brand D,10.05
+CLO_0654,Clothing Product 55,Clothing,Brand E,20.93
+FOO_0655,Food & Beverage Product 56,Food & Beverage,Brand F,10.79
+BOO_0656,Books Product 57,Books,Brand G,11.14
+FOO_0657,Food & Beverage Product 58,Food & Beverage,Brand H,8.72
+HOM_0658,Home & Garden Product 59,Home & Garden,Brand I,35.92
+HOM_0659,Home & Garden Product 60,Home & Garden,Brand J,38.81
+CLO_0660,Clothing Product 61,Clothing,Brand K,18.36
+SPO_0661,Sports Product 62,Sports,Brand L,38.1
+CLO_0662,Clothing Product 63,Clothing,Brand M,16.89
+HOM_0663,Home & Garden Product 64,Home & Garden,Brand N,50.63
+ELE_0664,Electronics Product 65,Electronics,Brand O,179.95
+BOO_0665,Books Product 66,Books,Brand P,15.08
+BOO_0666,Books Product 67,Books,Brand Q,10.84
+HOM_0667,Home & Garden Product 68,Home & Garden,Brand R,51.2
+BOO_0668,Books Product 69,Books,Brand S,11.34
+SPO_0669,Sports Product 70,Sports,Brand T,37.44
+CLO_0670,Clothing Product 71,Clothing,Brand U,22.2
+BOO_0671,Books Product 72,Books,Brand V,14.94
+CLO_0672,Clothing Product 73,Clothing,Brand W,21.33
+ELE_0673,Electronics Product 74,Electronics,Brand X,173.0
+FOO_0674,Food & Beverage Product 75,Food & Beverage,Brand Y,9.79
+SPO_0675,Sports Product 76,Sports,Brand Z,45.37
+FOO_0676,Food & Beverage Product 77,Food & Beverage,Brand A,10.02
+CLO_0677,Clothing Product 78,Clothing,Brand B,19.87
+HOM_0678,Home & Garden Product 79,Home & Garden,Brand C,52.79
+SPO_0679,Sports Product 80,Sports,Brand D,50.47
+CLO_0680,Clothing Product 81,Clothing,Brand E,18.56
+BOO_0681,Books Product 82,Books,Brand F,15.88
+SPO_0682,Sports Product 83,Sports,Brand G,48.13
+SPO_0683,Sports Product 84,Sports,Brand H,43.5
+SPO_0684,Sports Product 85,Sports,Brand I,51.55
+CLO_0685,Clothing Product 86,Clothing,Brand J,21.96
+CLO_0686,Clothing Product 87,Clothing,Brand K,22.52
+ELE_0687,Electronics Product 88,Electronics,Brand L,189.53
+HOM_0688,Home & Garden Product 89,Home & Garden,Brand M,45.47
+ELE_0689,Electronics Product 90,Electronics,Brand N,194.57
+BOO_0690,Books Product 91,Books,Brand O,15.17
+HOM_0691,Home & Garden Product 92,Home & Garden,Brand P,37.09
+CLO_0692,Clothing Product 93,Clothing,Brand Q,17.82
+BOO_0693,Books Product 94,Books,Brand R,11.42
+SPO_0694,Sports Product 95,Sports,Brand S,36.35
+CLO_0695,Clothing Product 96,Clothing,Brand T,22.08
+HOM_0696,Home & Garden Product 97,Home & Garden,Brand U,52.16
+SPO_0697,Sports Product 98,Sports,Brand V,35.69
+BOO_0698,Books Product 99,Books,Brand W,12.63
+SPO_0699,Sports Product 100,Sports,Brand X,52.04
+HOM_0700,Home & Garden Product 1,Home & Garden,Brand Y,39.6
+HOM_0701,Home & Garden Product 2,Home & Garden,Brand Z,52.17
+FOO_0702,Food & Beverage Product 3,Food & Beverage,Brand A,9.54
+CLO_0703,Clothing Product 4,Clothing,Brand B,16.76
+HOM_0704,Home & Garden Product 5,Home & Garden,Brand C,51.93
+SPO_0705,Sports Product 6,Sports,Brand D,46.86
+CLO_0706,Clothing Product 7,Clothing,Brand E,21.63
+SPO_0707,Sports Product 8,Sports,Brand F,42.56
+ELE_0708,Electronics Product 9,Electronics,Brand G,208.52
+ELE_0709,Electronics Product 10,Electronics,Brand H,161.89
+CLO_0710,Clothing Product 11,Clothing,Brand I,19.98
+FOO_0711,Food & Beverage Product 12,Food & Beverage,Brand J,9.39
+SPO_0712,Sports Product 13,Sports,Brand K,36.69
+HOM_0713,Home & Garden Product 14,Home & Garden,Brand L,39.83
+ELE_0714,Electronics Product 15,Electronics,Brand M,146.95
+SPO_0715,Sports Product 16,Sports,Brand N,45.86
+BOO_0716,Books Product 17,Books,Brand O,13.07
+ELE_0717,Electronics Product 18,Electronics,Brand P,203.56
+SPO_0718,Sports Product 19,Sports,Brand Q,45.13
+ELE_0719,Electronics Product 20,Electronics,Brand R,188.87
+BOO_0720,Books Product 21,Books,Brand S,11.93
+CLO_0721,Clothing Product 22,Clothing,Brand T,17.96
+ELE_0722,Electronics Product 23,Electronics,Brand U,187.64
+CLO_0723,Clothing Product 24,Clothing,Brand V,20.15
+CLO_0724,Clothing Product 25,Clothing,Brand W,20.89
+ELE_0725,Electronics Product 26,Electronics,Brand X,181.09
+HOM_0726,Home & Garden Product 27,Home & Garden,Brand Y,36.8
+BOO_0727,Books Product 28,Books,Brand Z,13.53
+BOO_0728,Books Product 29,Books,Brand A,13.59
+SPO_0729,Sports Product 30,Sports,Brand B,49.94
+ELE_0730,Electronics Product 31,Electronics,Brand C,189.14
+HOM_0731,Home & Garden Product 32,Home & Garden,Brand D,40.11
+ELE_0732,Electronics Product 33,Electronics,Brand E,169.15
+ELE_0733,Electronics Product 34,Electronics,Brand F,168.26
+FOO_0734,Food & Beverage Product 35,Food & Beverage,Brand G,9.57
+ELE_0735,Electronics Product 36,Electronics,Brand H,198.88
+FOO_0736,Food & Beverage Product 37,Food & Beverage,Brand I,9.92
+CLO_0737,Clothing Product 38,Clothing,Brand J,16.03
+BOO_0738,Books Product 39,Books,Brand K,12.44
+FOO_0739,Food & Beverage Product 40,Food & Beverage,Brand L,7.83
+FOO_0740,Food & Beverage Product 41,Food & Beverage,Brand M,8.87
+FOO_0741,Food & Beverage Product 42,Food & Beverage,Brand N,8.92
+CLO_0742,Clothing Product 43,Clothing,Brand O,22.04
+ELE_0743,Electronics Product 44,Electronics,Brand P,194.9
+SPO_0744,Sports Product 45,Sports,Brand Q,35.4
+CLO_0745,Clothing Product 46,Clothing,Brand R,16.02
+CLO_0746,Clothing Product 47,Clothing,Brand S,22.62
+HOM_0747,Home & Garden Product 48,Home & Garden,Brand T,52.21
+BOO_0748,Books Product 49,Books,Brand U,12.76
+BOO_0749,Books Product 50,Books,Brand V,13.16
+ELE_0750,Electronics Product 51,Electronics,Brand W,197.58
+CLO_0751,Clothing Product 52,Clothing,Brand X,17.92
+ELE_0752,Electronics Product 53,Electronics,Brand Y,205.65
+HOM_0753,Home & Garden Product 54,Home & Garden,Brand Z,40.46
+HOM_0754,Home & Garden Product 55,Home & Garden,Brand A,43.38
+SPO_0755,Sports Product 56,Sports,Brand B,47.68
+SPO_0756,Sports Product 57,Sports,Brand C,40.65
+CLO_0757,Clothing Product 58,Clothing,Brand D,19.57
+SPO_0758,Sports Product 59,Sports,Brand E,41.14
+BOO_0759,Books Product 60,Books,Brand F,12.06
+ELE_0760,Electronics Product 61,Electronics,Brand G,195.7
+ELE_0761,Electronics Product 62,Electronics,Brand H,174.42
+CLO_0762,Clothing Product 63,Clothing,Brand I,19.96
+HOM_0763,Home & Garden Product 64,Home & Garden,Brand J,37.43
+HOM_0764,Home & Garden Product 65,Home & Garden,Brand K,47.36
+HOM_0765,Home & Garden Product 66,Home & Garden,Brand L,43.54
+FOO_0766,Food & Beverage Product 67,Food & Beverage,Brand M,8.73
+FOO_0767,Food & Beverage Product 68,Food & Beverage,Brand N,8.8
+SPO_0768,Sports Product 69,Sports,Brand O,35.5
+HOM_0769,Home & Garden Product 70,Home & Garden,Brand P,46.54
+SPO_0770,Sports Product 71,Sports,Brand Q,39.53
+ELE_0771,Electronics Product 72,Electronics,Brand R,148.9
+FOO_0772,Food & Beverage Product 73,Food & Beverage,Brand S,8.66
+BOO_0773,Books Product 74,Books,Brand T,14.9
+FOO_0774,Food & Beverage Product 75,Food & Beverage,Brand U,7.78
+ELE_0775,Electronics Product 76,Electronics,Brand V,153.77
+BOO_0776,Books Product 77,Books,Brand W,14.25
+SPO_0777,Sports Product 78,Sports,Brand X,35.36
+ELE_0778,Electronics Product 79,Electronics,Brand Y,160.46
+FOO_0779,Food & Beverage Product 80,Food & Beverage,Brand Z,8.52
+SPO_0780,Sports Product 81,Sports,Brand A,51.26
+ELE_0781,Electronics Product 82,Electronics,Brand B,186.94
+FOO_0782,Food & Beverage Product 83,Food & Beverage,Brand C,8.82
+HOM_0783,Home & Garden Product 84,Home & Garden,Brand D,42.22
+ELE_0784,Electronics Product 85,Electronics,Brand E,184.7
+BOO_0785,Books Product 86,Books,Brand F,12.59
+HOM_0786,Home & Garden Product 87,Home & Garden,Brand G,47.16
+CLO_0787,Clothing Product 88,Clothing,Brand H,23.21
+ELE_0788,Electronics Product 89,Electronics,Brand I,196.31
+SPO_0789,Sports Product 90,Sports,Brand J,43.76
+BOO_0790,Books Product 91,Books,Brand K,11.27
+HOM_0791,Home & Garden Product 92,Home & Garden,Brand L,48.13
+CLO_0792,Clothing Product 93,Clothing,Brand M,23.49
+HOM_0793,Home & Garden Product 94,Home & Garden,Brand N,47.95
+SPO_0794,Sports Product 95,Sports,Brand O,38.24
+CLO_0795,Clothing Product 96,Clothing,Brand P,22.37
+SPO_0796,Sports Product 97,Sports,Brand Q,37.76
+FOO_0797,Food & Beverage Product 98,Food & Beverage,Brand R,8.8
+ELE_0798,Electronics Product 99,Electronics,Brand S,201.68
+HOM_0799,Home & Garden Product 100,Home & Garden,Brand T,47.49
+FOO_0800,Food & Beverage Product 1,Food & Beverage,Brand U,7.43
+BOO_0801,Books Product 2,Books,Brand V,12.18
+HOM_0802,Home & Garden Product 3,Home & Garden,Brand W,50.75
+FOO_0803,Food & Beverage Product 4,Food & Beverage,Brand X,9.75
+FOO_0804,Food & Beverage Product 5,Food & Beverage,Brand Y,9.5
+HOM_0805,Home & Garden Product 6,Home & Garden,Brand Z,44.66
+ELE_0806,Electronics Product 7,Electronics,Brand A,214.21
+CLO_0807,Clothing Product 8,Clothing,Brand B,17.54
+SPO_0808,Sports Product 9,Sports,Brand C,35.22
+BOO_0809,Books Product 10,Books,Brand D,13.68
+SPO_0810,Sports Product 11,Sports,Brand E,48.73
+BOO_0811,Books Product 12,Books,Brand F,11.33
+ELE_0812,Electronics Product 13,Electronics,Brand G,148.24
+SPO_0813,Sports Product 14,Sports,Brand H,52.13
+FOO_0814,Food & Beverage Product 15,Food & Beverage,Brand I,8.92
+SPO_0815,Sports Product 16,Sports,Brand J,48.13
+BOO_0816,Books Product 17,Books,Brand K,11.03
+HOM_0817,Home & Garden Product 18,Home & Garden,Brand L,47.03
+SPO_0818,Sports Product 19,Sports,Brand M,42.86
+BOO_0819,Books Product 20,Books,Brand N,12.47
+BOO_0820,Books Product 21,Books,Brand O,14.04
+CLO_0821,Clothing Product 22,Clothing,Brand P,21.7
+CLO_0822,Clothing Product 23,Clothing,Brand Q,19.07
+ELE_0823,Electronics Product 24,Electronics,Brand R,203.18
+BOO_0824,Books Product 25,Books,Brand S,11.45
+CLO_0825,Clothing Product 26,Clothing,Brand T,16.95
+FOO_0826,Food & Beverage Product 27,Food & Beverage,Brand U,8.01
+BOO_0827,Books Product 28,Books,Brand V,15.4
+ELE_0828,Electronics Product 29,Electronics,Brand W,161.5
+FOO_0829,Food & Beverage Product 30,Food & Beverage,Brand X,10.64
+HOM_0830,Home & Garden Product 31,Home & Garden,Brand Y,37.83
+HOM_0831,Home & Garden Product 32,Home & Garden,Brand Z,46.54
+ELE_0832,Electronics Product 33,Electronics,Brand A,179.58
+CLO_0833,Clothing Product 34,Clothing,Brand B,20.32
+BOO_0834,Books Product 35,Books,Brand C,11.46
+FOO_0835,Food & Beverage Product 36,Food & Beverage,Brand D,9.45
+BOO_0836,Books Product 37,Books,Brand E,12.44
+BOO_0837,Books Product 38,Books,Brand F,10.86
+ELE_0838,Electronics Product 39,Electronics,Brand G,149.35
+FOO_0839,Food & Beverage Product 40,Food & Beverage,Brand H,9.98
+HOM_0840,Home & Garden Product 41,Home & Garden,Brand I,47.19
+BOO_0841,Books Product 42,Books,Brand J,12.86
+FOO_0842,Food & Beverage Product 43,Food & Beverage,Brand K,7.31
+FOO_0843,Food & Beverage Product 44,Food & Beverage,Brand L,9.16
+FOO_0844,Food & Beverage Product 45,Food & Beverage,Brand M,10.64
+SPO_0845,Sports Product 46,Sports,Brand N,39.02
+FOO_0846,Food & Beverage Product 47,Food & Beverage,Brand O,8.66
+SPO_0847,Sports Product 48,Sports,Brand P,36.03
+ELE_0848,Electronics Product 49,Electronics,Brand Q,154.86
+SPO_0849,Sports Product 50,Sports,Brand R,43.18
+CLO_0850,Clothing Product 51,Clothing,Brand S,18.35
+CLO_0851,Clothing Product 52,Clothing,Brand T,18.13
+FOO_0852,Food & Beverage Product 53,Food & Beverage,Brand U,8.35
+HOM_0853,Home & Garden Product 54,Home & Garden,Brand V,52.96
+CLO_0854,Clothing Product 55,Clothing,Brand W,21.64
+BOO_0855,Books Product 56,Books,Brand X,13.63
+HOM_0856,Home & Garden Product 57,Home & Garden,Brand Y,39.9
+ELE_0857,Electronics Product 58,Electronics,Brand Z,162.71
+CLO_0858,Clothing Product 59,Clothing,Brand A,16.78
+ELE_0859,Electronics Product 60,Electronics,Brand B,164.35
+SPO_0860,Sports Product 61,Sports,Brand C,49.78
+SPO_0861,Sports Product 62,Sports,Brand D,39.07
+CLO_0862,Clothing Product 63,Clothing,Brand E,22.06
+BOO_0863,Books Product 64,Books,Brand F,14.48
+CLO_0864,Clothing Product 65,Clothing,Brand G,21.66
+SPO_0865,Sports Product 66,Sports,Brand H,52.07
+SPO_0866,Sports Product 67,Sports,Brand I,43.43
+HOM_0867,Home & Garden Product 68,Home & Garden,Brand J,44.45
+ELE_0868,Electronics Product 69,Electronics,Brand K,211.35
+BOO_0869,Books Product 70,Books,Brand L,13.07
+CLO_0870,Clothing Product 71,Clothing,Brand M,17.37
+HOM_0871,Home & Garden Product 72,Home & Garden,Brand N,36.47
+HOM_0872,Home & Garden Product 73,Home & Garden,Brand O,44.41
+FOO_0873,Food & Beverage Product 74,Food & Beverage,Brand P,9.62
+HOM_0874,Home & Garden Product 75,Home & Garden,Brand Q,45.15
+ELE_0875,Electronics Product 76,Electronics,Brand R,174.44
+HOM_0876,Home & Garden Product 77,Home & Garden,Brand S,48.55
+SPO_0877,Sports Product 78,Sports,Brand T,41.12
+SPO_0878,Sports Product 79,Sports,Brand U,35.65
+BOO_0879,Books Product 80,Books,Brand V,11.68
+BOO_0880,Books Product 81,Books,Brand W,12.18
+SPO_0881,Sports Product 82,Sports,Brand X,43.52
+BOO_0882,Books Product 83,Books,Brand Y,12.13
+BOO_0883,Books Product 84,Books,Brand Z,14.26
+ELE_0884,Electronics Product 85,Electronics,Brand A,152.75
+ELE_0885,Electronics Product 86,Electronics,Brand B,171.79
+HOM_0886,Home & Garden Product 87,Home & Garden,Brand C,45.53
+HOM_0887,Home & Garden Product 88,Home & Garden,Brand D,49.04
+CLO_0888,Clothing Product 89,Clothing,Brand E,20.4
+SPO_0889,Sports Product 90,Sports,Brand F,43.45
+ELE_0890,Electronics Product 91,Electronics,Brand G,146.31
+FOO_0891,Food & Beverage Product 92,Food & Beverage,Brand H,8.4
+SPO_0892,Sports Product 93,Sports,Brand I,43.79
+CLO_0893,Clothing Product 94,Clothing,Brand J,20.43
+BOO_0894,Books Product 95,Books,Brand K,11.38
+BOO_0895,Books Product 96,Books,Brand L,12.33
+SPO_0896,Sports Product 97,Sports,Brand M,51.98
+FOO_0897,Food & Beverage Product 98,Food & Beverage,Brand N,10.23
+BOO_0898,Books Product 99,Books,Brand O,12.43
+BOO_0899,Books Product 100,Books,Brand P,13.47
+FOO_0900,Food & Beverage Product 1,Food & Beverage,Brand Q,9.23
+SPO_0901,Sports Product 2,Sports,Brand R,48.94
+HOM_0902,Home & Garden Product 3,Home & Garden,Brand S,41.5
+ELE_0903,Electronics Product 4,Electronics,Brand T,213.84
+BOO_0904,Books Product 5,Books,Brand U,12.28
+FOO_0905,Food & Beverage Product 6,Food & Beverage,Brand V,10.34
+FOO_0906,Food & Beverage Product 7,Food & Beverage,Brand W,7.3
+SPO_0907,Sports Product 8,Sports,Brand X,39.37
+FOO_0908,Food & Beverage Product 9,Food & Beverage,Brand Y,10.02
+BOO_0909,Books Product 10,Books,Brand Z,13.71
+FOO_0910,Food & Beverage Product 11,Food & Beverage,Brand A,7.38
+SPO_0911,Sports Product 12,Sports,Brand B,37.72
+FOO_0912,Food & Beverage Product 13,Food & Beverage,Brand C,9.8
+SPO_0913,Sports Product 14,Sports,Brand D,37.33
+FOO_0914,Food & Beverage Product 15,Food & Beverage,Brand E,8.07
+BOO_0915,Books Product 16,Books,Brand F,15.68
+ELE_0916,Electronics Product 17,Electronics,Brand G,157.21
+SPO_0917,Sports Product 18,Sports,Brand H,40.21
+CLO_0918,Clothing Product 19,Clothing,Brand I,18.92
+CLO_0919,Clothing Product 20,Clothing,Brand J,18.9
+BOO_0920,Books Product 21,Books,Brand K,15.54
+FOO_0921,Food & Beverage Product 22,Food & Beverage,Brand L,9.82
+FOO_0922,Food & Beverage Product 23,Food & Beverage,Brand M,7.7
+CLO_0923,Clothing Product 24,Clothing,Brand N,20.08
+FOO_0924,Food & Beverage Product 25,Food & Beverage,Brand O,8.92
+SPO_0925,Sports Product 26,Sports,Brand P,40.21
+CLO_0926,Clothing Product 27,Clothing,Brand Q,19.28
+BOO_0927,Books Product 28,Books,Brand R,12.46
+HOM_0928,Home & Garden Product 29,Home & Garden,Brand S,47.63
+FOO_0929,Food & Beverage Product 30,Food & Beverage,Brand T,9.65
+FOO_0930,Food & Beverage Product 31,Food & Beverage,Brand U,8.15
+SPO_0931,Sports Product 32,Sports,Brand V,38.1
+CLO_0932,Clothing Product 33,Clothing,Brand W,17.87
+HOM_0933,Home & Garden Product 34,Home & Garden,Brand X,39.6
+HOM_0934,Home & Garden Product 35,Home & Garden,Brand Y,49.33
+FOO_0935,Food & Beverage Product 36,Food & Beverage,Brand Z,7.95
+FOO_0936,Food & Beverage Product 37,Food & Beverage,Brand A,8.96
+SPO_0937,Sports Product 38,Sports,Brand B,40.82
+FOO_0938,Food & Beverage Product 39,Food & Beverage,Brand C,8.18
+ELE_0939,Electronics Product 40,Electronics,Brand D,184.67
+BOO_0940,Books Product 41,Books,Brand E,12.66
+SPO_0941,Sports Product 42,Sports,Brand F,48.98
+CLO_0942,Clothing Product 43,Clothing,Brand G,17.96
+HOM_0943,Home & Garden Product 44,Home & Garden,Brand H,52.6
+ELE_0944,Electronics Product 45,Electronics,Brand I,168.38
+SPO_0945,Sports Product 46,Sports,Brand J,46.16
+FOO_0946,Food & Beverage Product 47,Food & Beverage,Brand K,8.92
+CLO_0947,Clothing Product 48,Clothing,Brand L,22.17
+HOM_0948,Home & Garden Product 49,Home & Garden,Brand M,52.21
+FOO_0949,Food & Beverage Product 50,Food & Beverage,Brand N,8.18
+ELE_0950,Electronics Product 51,Electronics,Brand O,187.7
+BOO_0951,Books Product 52,Books,Brand P,11.91
+ELE_0952,Electronics Product 53,Electronics,Brand Q,191.59
+BOO_0953,Books Product 54,Books,Brand R,11.84
+CLO_0954,Clothing Product 55,Clothing,Brand S,16.09
+SPO_0955,Sports Product 56,Sports,Brand T,40.5
+SPO_0956,Sports Product 57,Sports,Brand U,36.51
+CLO_0957,Clothing Product 58,Clothing,Brand V,15.72
+BOO_0958,Books Product 59,Books,Brand W,15.84
+CLO_0959,Clothing Product 60,Clothing,Brand X,18.87
+SPO_0960,Sports Product 61,Sports,Brand Y,43.06
+CLO_0961,Clothing Product 62,Clothing,Brand Z,21.61
+HOM_0962,Home & Garden Product 63,Home & Garden,Brand A,41.32
+FOO_0963,Food & Beverage Product 64,Food & Beverage,Brand B,7.41
+ELE_0964,Electronics Product 65,Electronics,Brand C,190.33
+CLO_0965,Clothing Product 66,Clothing,Brand D,19.88
+FOO_0966,Food & Beverage Product 67,Food & Beverage,Brand E,10.26
+ELE_0967,Electronics Product 68,Electronics,Brand F,209.05
+CLO_0968,Clothing Product 69,Clothing,Brand G,18.96
+CLO_0969,Clothing Product 70,Clothing,Brand H,23.0
+ELE_0970,Electronics Product 71,Electronics,Brand I,215.08
+SPO_0971,Sports Product 72,Sports,Brand J,48.45
+CLO_0972,Clothing Product 73,Clothing,Brand K,23.02
+HOM_0973,Home & Garden Product 74,Home & Garden,Brand L,51.21
+ELE_0974,Electronics Product 75,Electronics,Brand M,164.93
+BOO_0975,Books Product 76,Books,Brand N,11.21
+HOM_0976,Home & Garden Product 77,Home & Garden,Brand O,40.67
+FOO_0977,Food & Beverage Product 78,Food & Beverage,Brand P,9.16
+SPO_0978,Sports Product 79,Sports,Brand Q,50.22
+CLO_0979,Clothing Product 80,Clothing,Brand R,22.35
+SPO_0980,Sports Product 81,Sports,Brand S,39.5
+ELE_0981,Electronics Product 82,Electronics,Brand T,167.25
+FOO_0982,Food & Beverage Product 83,Food & Beverage,Brand U,8.85
+HOM_0983,Home & Garden Product 84,Home & Garden,Brand V,48.39
+ELE_0984,Electronics Product 85,Electronics,Brand W,196.38
+HOM_0985,Home & Garden Product 86,Home & Garden,Brand X,45.71
+CLO_0986,Clothing Product 87,Clothing,Brand Y,17.06
+FOO_0987,Food & Beverage Product 88,Food & Beverage,Brand Z,10.43
+SPO_0988,Sports Product 89,Sports,Brand A,43.72
+ELE_0989,Electronics Product 90,Electronics,Brand B,172.28
+ELE_0990,Electronics Product 91,Electronics,Brand C,156.78
+CLO_0991,Clothing Product 92,Clothing,Brand D,19.42
+CLO_0992,Clothing Product 93,Clothing,Brand E,15.73
+SPO_0993,Sports Product 94,Sports,Brand F,38.85
+HOM_0994,Home & Garden Product 95,Home & Garden,Brand G,52.58
+HOM_0995,Home & Garden Product 96,Home & Garden,Brand H,45.97
+BOO_0996,Books Product 97,Books,Brand I,10.7
+FOO_0997,Food & Beverage Product 98,Food & Beverage,Brand J,8.49
+CLO_0998,Clothing Product 99,Clothing,Brand K,16.17
+ELE_0999,Electronics Product 100,Electronics,Brand L,176.92
