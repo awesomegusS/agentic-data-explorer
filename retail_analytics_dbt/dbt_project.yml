@@ -1,0 +1,32 @@
+name: 'retail_analytics'
+version: '1.0.0'
+config-version: 2
+
+profile: 'retail_analytics'
+
+model-paths: ["models"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+
+target-path: "target"
+clean-targets:
+  - "target"
+  - "dbt_packages"
+
+models:
+  retail_analytics:
+    staging:
+      +materialized: view
+      +docs:
+        node_color: "lightblue"
+    
+    marts:
+      +materialized: table
+      +docs:
+        node_color: "lightgreen"
+
+vars:
+  start_date: '2023-01-01'
+  customer_segments: ['Premium', 'Standard', 'Budget']
+  regions: ['North', 'South', 'East', 'West', 'Central']

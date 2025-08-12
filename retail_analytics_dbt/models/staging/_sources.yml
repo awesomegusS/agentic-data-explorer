@@ -1,0 +1,62 @@
+version: 2
+
+sources:
+  - name: raw_retail
+    description: "Raw retail data from CSV files"
+    database: retail_analytics
+    schema: raw
+    
+    tables:
+      - name: sales
+        description: "Raw sales transaction data"
+        columns:
+          - name: transaction_id
+            description: "Unique transaction identifier"
+            tests:
+              - unique
+              - not_null
+          
+          - name: quantity
+            description: "Items sold"
+            tests:
+              - not_null
+              - dbt_utils.accepted_range:
+                  min_value: 1
+                  max_value: 100
+          
+          - name: unit_price
+            description: "Price per item"
+            tests:
+              - not_null
+              - dbt_utils.accepted_range:
+                  min_value: 0.01
+                  max_value: 10000
+          
+          - name: total_amount
+            description: "Total transaction value"
+            tests:
+              - not_null
+
+      - name: stores
+        description: "Store master data"
+        columns:
+          - name: store_id
+            description: "Unique store identifier"
+            tests:
+              - unique
+              - not_null
+          
+          - name: store_region
+            description: "Geographic region"
+            tests:
+              - accepted_values:
+                  values: ['North', 'South', 'East', 'West', 'Central']
+
+      - name: products
+        description: "Product master data"
+        columns:
+          - name: product_id
+            description: "Unique product identifier"
+            tests:
+              - unique
+              - not_null

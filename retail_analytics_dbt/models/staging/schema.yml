@@ -1,0 +1,13 @@
+version: 2
+
+models:
+  - name: stg_sales
+    description: "Cleaned sales data"
+    tests:
+      - dbt_utils.expression_is_true:
+          expression: "total_amount >= 0"
+    columns:
+      - name: transaction_id
+        tests:
+          - unique
+          - not_null
