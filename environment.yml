@@ -1,29 +1,65 @@
-name: agentic_data_explorer
+# environment.yml
+# Conda environment file for Agentic Data Explorer
 
+name: agentic_data_explorer
 channels:
   - conda-forge
   - defaults
+  - anaconda
 
 dependencies:
+  # Python
   - python=3.11
-  - pandas>=2.0.0
-  - numpy>=1.24.0
-  - sqlalchemy>=2.0.0
+  
+  # Core FastAPI and web dependencies
   - fastapi>=0.104.0
   - uvicorn>=0.24.0
+  - pydantic>=2.4.0
+  - pydantic-settings>=2.0.0
+  
+  # Async and HTTP
+  - httpx>=0.24.0
+  - aiofiles>=23.0.0
+  
+  # Data processing
+  - pandas>=2.0.0
+  - numpy>=1.24.0
+  
+  # Database connectors
+  - sqlalchemy>=2.0.0
+  - snowflake-connector-python>=3.5.0
+  - snowflake-sqlalchemy>=1.5.0
+  
+  # AI and ML dependencies
+  - langchain>=0.0.350
+  - langchain-community>=0.0.10
+  - ollama>=0.1.0
+  
+  # Visualization and frontend
+  - streamlit>=1.28.0
+  - plotly>=5.15.0
+  - altair>=5.0.0
+  
+  # System monitoring
+  - psutil>=5.9.0
+  
+  # Development tools
   - pytest>=7.4.0
-  - requests>=2.31.0
+  - pytest-asyncio>=0.21.0
+  - black>=23.0.0
+  - isort>=5.12.0
+  - flake8>=6.0.0
+  
+  # Additional utilities
+  - python-dateutil>=2.8.2
   - python-dotenv>=1.0.0
+  - click>=8.1.0
+  
+  # Pip dependencies (not available in conda)
   - pip
   - pip:
-    - snowflake-connector-python>=3.0.0
-    - snowflake-sqlalchemy>=1.5.0
-    - langchain>=0.1.0
-    - langchain-community>=0.0.10
-    - ollama>=0.1.0
-    - pydantic>=2.5.0
-    - streamlit>=1.28.0
-    - dbt-snowflake>=1.6.0
-    - plotly>=5.17.0
-    - transformers>=4.30.0
-    - torch>=2.0.0
+    - streamlit-option-menu>=0.3.6
+    - streamlit-elements>=0.1.0
+    - streamlit-ace>=0.1.1
+    - streamlit-aggrid>=0.3.4
+    - orjson>=3.9.0

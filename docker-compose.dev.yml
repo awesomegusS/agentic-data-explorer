@@ -1,0 +1,32 @@
+
+# docker-compose.dev.yml
+# Development override configuration
+
+version: '3.8'
+
+services:
+  api:
+    build:
+      target: development
+    environment:
+      - ENVIRONMENT=development
+      - LOG_LEVEL=DEBUG
+    volumes:
+      - ./app:/app/app
+      - ./retail_analytics_dbt:/app/retail_analytics_dbt
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload
+
+  frontend:
+    volumes:
+      - ./frontend/streamlit:/app
+    command: streamlit run demo_app.py --server.port 8501 --server.address 0.0.0.0 --server.runOnSave true
+
+  # Remove nginx and monitoring in development
+  nginx:
+    profiles: ["disabled"]
+  
+  prometheus:
+    profiles: ["disabled"]
+    
+  grafana:
+    profiles: ["disabled"]

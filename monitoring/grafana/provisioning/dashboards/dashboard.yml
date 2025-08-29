@@ -1,0 +1,15 @@
+# monitoring/grafana/provisioning/dashboards/dashboard.yml
+# Grafana dashboard provisioning
+
+apiVersion: 1
+
+providers:
+  - name: 'agentic-dashboards'
+    orgId: 1
+    folder: 'Agentic Data Explorer'
+    type: file
+    disableDeletion: false
+    updateIntervalSeconds: 10
+    allowUiUpdates: true
+    options:
+      path: /etc/grafana/provisioning/dashboards

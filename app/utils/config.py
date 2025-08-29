@@ -27,7 +27,7 @@ class Settings(BaseSettings):
     
     # Local AI Configuration (instead of OpenAI)
     local_ai_backend: str = "ollama"
-    local_ai_model: str = "codellama:7b"
+    local_ai_model: str = "llama3.1:8b"
     local_ai_host: str = "localhost"
     local_ai_port: int = 11434
     local_ai_temperature: float = 0.1
@@ -47,6 +47,7 @@ class Settings(BaseSettings):
     class Config:
         env_file = ".env"
         case_sensitive = False
+        extra = "ignore"  # Ignore extra environment variables
 
 @lru_cache()
 def get_settings() -> Settings:

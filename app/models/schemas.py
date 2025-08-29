@@ -38,7 +38,7 @@ class QueryRequest(BaseModel):
     )
     
     timeout_seconds: Optional[int] = Field(
-        default=30,
+        default=90,
         description="Query timeout in seconds",
         ge=5,
         le=120

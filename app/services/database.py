@@ -40,8 +40,7 @@ class DatabaseService:
             loop = asyncio.get_event_loop()
             self.connection = await loop.run_in_executor(
                 None, 
-                snowflake.connector.connect, 
-                **self._connection_params
+                lambda: snowflake.connector.connect(**self._connection_params)
             )
             
             # Test connection

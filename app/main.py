@@ -168,6 +168,15 @@ async def get_agent_service() -> LocalSQLAgentService:
         )
     return agent_service
 
+# Override dependency injection for routers
+from app.routers.query import get_database_service as query_get_db, get_agent_service as query_get_agent
+from app.routers.health import get_database_service as health_get_db, get_agent_service as health_get_agent
+
+app.dependency_overrides[query_get_db] = get_database_service
+app.dependency_overrides[query_get_agent] = get_agent_service
+app.dependency_overrides[health_get_db] = get_database_service
+app.dependency_overrides[health_get_agent] = get_agent_service
+
 # Global exception handlers
 @app.exception_handler(HTTPException)
 async def http_exception_handler(request, exc):

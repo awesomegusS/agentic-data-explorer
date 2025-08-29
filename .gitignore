@@ -138,8 +138,8 @@ dbt.log
 # dbt profiles (contains credentials - keep in ~/.dbt/)
 profiles.yml
 
-# dbt documentation site
-docs/
+# # dbt documentation site
+# docs/
 
 # =============================================================================
 # DATA FILES
